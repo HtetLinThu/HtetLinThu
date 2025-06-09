@@ -5,7 +5,7 @@ With a passion for technology and a knack for problem-solving, I thrive in dynam
 ## 🚀 About Me
 
 - 💻 **Full-Stack Developer** focusing on both front-end and back-end development.
-- 🌐 Proficient in **Laravel**, **Vue.js**, **Adonis.js**, and **Git**.
+- 🌐 Proficient in **Laravel**, **Vue.js**, and **Git**.
 - 🛠️ Experienced in developing and maintaining high-quality, user-centric applications.
 - 🔧 Committed to writing clean, maintainable code while continuously learning and adopting new technologies.
 
