@@ -41,7 +41,7 @@ Here are some of my successful projects:
 - **YPF** - Real estate services in Myanmar.
 - **MIGM** - An online learning platform.
 - **Tint Tint Myanmar** - Luxury cruise services in Myanmar.
-- [**YRS**](https://yrsmm.com) - Explore routes, schedules, and stations for Yangon Railway Service, offering efficient and comfortable travel across Yangon.
+- [**YRS Move**](https://yrsmm.com) - Explore routes, schedules, and stations for Yangon Railway Service, offering efficient and comfortable travel across Yangon.
 
 ## 🎓 Instructor
 
